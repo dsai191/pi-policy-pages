@@ -6,6 +6,6 @@ By using this app, you agree to the following terms:
 - Users must comply with Pi Network’s policies.
 - We are not responsible for any misuse of the app.
 
-For support, contact us at: your@email.com
+For support, contact us at: asaikiran0191@gmail.com
 
 _Last updated: April 12, 2025_
